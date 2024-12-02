@@ -1,7 +1,10 @@
-# Overview
+# project-template
 
-A template file and folder structure for a data analysis project/paper done with R/Quarto/Github. Other components (e.g., other programming languages) can be added as needed. 
+A file and folder structure for a data analysis project/paper done with R/Quarto/Github.
 
+Forked and detatched from [Andreas Handel's template](https://github.com/ahgroup/data-analysis-template).
+
+[the rest of this readme needs to be updated, right now it is a copy of the original]
 
 # Pre-requisites
 
